@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be263b67-e5ea-4461-8cb4-2fc854adcfdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AOC_2021/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AOC_2021/Day2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AOC_2021/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AOC_2021/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

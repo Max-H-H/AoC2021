@@ -14,5 +14,11 @@ public class Main {
 
         //Answer for Day2 Puzzle 2
     //System.out.print(Day2.aimCalculator(Day2.stringToStringArray(Day2.input2)));
+
+        //Answer for Day3 Puzzle 1
+    //System.out.print(Day3.powerCalculator( Day3.gammaCalculator()));
+
+        //Answer for Day 3 Puzzle 2
+    //System.out.print(Day3.oxygenGenRatingCalculator());
     }
 }
